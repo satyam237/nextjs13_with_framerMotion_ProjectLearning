@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+#This is an project based learning of next.js 13 and Framer motion along with tailwind CSS done from THE JAVASCRIPTMASTERY YouTube channel.
+
 First, run the development server:
 
 ```bash
